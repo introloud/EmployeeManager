@@ -1,0 +1,14 @@
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\bin\Debug\net6.0\HelpdeskDAL.deps.json
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\bin\Debug\net6.0\HelpdeskDAL.runtimeconfig.json
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\bin\Debug\net6.0\HelpdeskDAL.dll
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\bin\Debug\net6.0\HelpdeskDAL.pdb
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\HelpdeskDAL.csproj.AssemblyReference.cache
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\HelpdeskDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\HelpdeskDAL.AssemblyInfoInputs.cache
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\HelpdeskDAL.AssemblyInfo.cs
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\HelpdeskDAL.csproj.CoreCompileInputs.cache
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\HelpdeskDAL.dll
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\refint\HelpdeskDAL.dll
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\HelpdeskDAL.pdb
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\HelpdeskDAL.genruntimeconfig.cache
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskDAL\obj\Debug\net6.0\ref\HelpdeskDAL.dll

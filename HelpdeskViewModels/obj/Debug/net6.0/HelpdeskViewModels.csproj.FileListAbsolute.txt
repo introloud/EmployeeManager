@@ -1,0 +1,15 @@
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\bin\Debug\net6.0\HelpdeskViewModels.deps.json
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\bin\Debug\net6.0\HelpdeskViewModels.dll
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\bin\Debug\net6.0\HelpdeskViewModels.pdb
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\bin\Debug\net6.0\HelpdeskDAL.dll
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\bin\Debug\net6.0\HelpdeskDAL.pdb
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\HelpdeskViewModels.csproj.AssemblyReference.cache
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\HelpdeskViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\HelpdeskViewModels.AssemblyInfoInputs.cache
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\HelpdeskViewModels.AssemblyInfo.cs
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\HelpdeskViewModels.csproj.CoreCompileInputs.cache
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\HelpdeskViewModels.csproj.CopyComplete
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\HelpdeskViewModels.dll
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\refint\HelpdeskViewModels.dll
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\HelpdeskViewModels.pdb
+D:\Class\Sem 3\INFO-3067 ASP .NET with C#\Casestudy\Casestudy\HelpdeskViewModels\obj\Debug\net6.0\ref\HelpdeskViewModels.dll

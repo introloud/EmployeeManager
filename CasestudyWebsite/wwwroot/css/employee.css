@@ -1,0 +1,22 @@
+﻿body {
+    background-color: #227562;
+    font-family: 'Book Antiqua';
+}
+
+#status {
+    background-color: #808080;
+    font-family: 'Book Antiqua';
+    font-size: large;
+    color: white;
+}
+
+button.list-group-item {
+    color: #1a7782;
+    font-family: 'Book Antiqua';
+    font-size: larger;
+}
+@media only screen and (max-width: 600px) {
+    button.list-group-item {
+        font-size: medium;
+    }
+}
