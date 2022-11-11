@@ -20,7 +20,3 @@ MVC architecture consists of 5 logical tiers:
 ![Update an existing employee](./img/update-here.png "Update from here")
 - Delete an employee.
 ![Delete an existing employee](./img/update.png "Delete from here")
-
-To test the app, run the CasestudyWebsite as the startup project in Visual Studio. This should launch the default developer webserver (IISExpress) using an application called Swagger, which is like a client app to test all the server-side API methods.
-![Swagger page](./img/swagger.png "Swagger landing page")
-Now, replace the /swagger/index.html with /employee.html in the URL. This will navigate straight to where the web application is.
